@@ -1,12 +1,15 @@
-# ¡Hola, soy **feliponsioDev**! 👋
+<div align="center">
+  <h1>¡Hola, soy <strong>FeliponsioDev</strong>! 👋</h1>
+</div>
+---
 
-## Desarrollador Web y Creador de Plugins para Minecraft 🚀
+## 🚀 Sobre mí
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador junior especializado en la creación de **páginas web** y **plugins para Minecraft**. Me encanta aprender nuevas tecnologías y trabajar en proyectos que desafíen mi creatividad y habilidades técnicas.
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Más sobre mí
 
 - 🌱 Actualmente estoy aprendiendo: **JavaScript avanzado, React, Astro y desarrollo de plugins para Minecraft con Java**.
 - 💻 Habilidades principales: **Desarrollo web (HTML, CSS, JavaScript, Astro) y creación de plugins para Minecraft**.
@@ -59,11 +62,11 @@
 ### 📊 Estadísticas de GitHub
 
 <a href="https://github.com/FeliponsioDev" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=feliponsioDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=FeliponsioDev&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
 </a>
 
 <a href="https://github.com/FeliponsioDev" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliponsioDev&layout=compact&theme=radical" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeliponsioDev&layout=compact&theme=radical" alt="Lenguajes más usados">
 </a>
 
 ---
