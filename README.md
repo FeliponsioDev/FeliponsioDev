@@ -1,7 +1,6 @@
 <div align="center">
   <h1>¡Hola, soy <strong>FeliponsioDev</strong>! 👋</h1>
 </div>
----
 
 ## 🚀 Sobre mí
 
