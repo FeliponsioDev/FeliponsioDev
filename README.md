@@ -2,7 +2,7 @@
   <h1>¡Hola, soy <strong>FeliponsioDev</strong>! 👋</h1>
 </div>
 
-## 🚀 Sobre mí
+## 🚀 Sobre mí 
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador junior especializado en la creación de **páginas web** y **plugins para Minecraft**. Me encanta aprender nuevas tecnologías y trabajar en proyectos que desafíen mi creatividad y habilidades técnicas.
 
